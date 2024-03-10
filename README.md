@@ -1,4 +1,4 @@
-# rotating-illuminated-sphere
+# 计算机图形学——旋转光照球
 # 一、设计内容（功能需求描述）
 
 任务：设计一个多光源光照球演示系统。
@@ -15,7 +15,6 @@
 
 （5）光源可以在X轴，Y轴和Z轴上移动或在平面上以某种轨迹动态移动（ 比如：在xoy平面、yoz平面、xoz平面上绕Z轴、X轴、Y轴沿圆形轨道运行）；
 
-其中本人负责功能（1）（2）（3）的实现。
 
 # 二、设计思想和实现方法（说明总体框架，模块实现流程及编程方法）
 
@@ -120,4 +119,7 @@ CZBuffer类：表示Z缓冲区，用于颜色渐变填充和深度测试。
 # 六、附录
 
 程序运行截图：
-![img](file:///C:\Users\yanla\AppData\Local\Temp\ksohtml3936\wps2.jpg)
+![image](https://github.com/yanyanlai/rotating-illuminated-sphere/assets/110188868/f28bd15c-4cb0-4ca0-baf9-e0fe7b652dcf)
+![image](https://github.com/yanyanlai/rotating-illuminated-sphere/assets/110188868/f4cd3bdc-fbc5-4266-9004-dc160f16ef56)
+![image](https://github.com/yanyanlai/rotating-illuminated-sphere/assets/110188868/27461aaa-ab01-43b1-8658-e2d60ee6b352)
+
